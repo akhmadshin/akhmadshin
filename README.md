@@ -29,7 +29,6 @@ Senior Frontend Developer
 
 Led the development of a highly scalable, interactive airport map that renders thousands of moving objects with consistently 
 high performance, even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. 
-
 Increased operator productivity (≈ 18.4%) by making tracking of moving object easier via predictive position updates.
 Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.
 
