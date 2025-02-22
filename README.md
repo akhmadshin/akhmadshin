@@ -4,7 +4,7 @@
 
 ABOUT ME
 
-7+ years of enterprise development experience, specializing in solving complex business problems with elegant, efficient code.
+7+ years of enterprise development experience, specializing in solving complex business problems with elegant and efficient code.
 My focus is on building software that delivers exceptional user experiences and consistently high performance. Enhance product value
 by finding and solving key pain points. I'm seeking opportunities to lead technical projects and mentor junior developers while 
 continuing to grow my expertise in frontend technologies.
@@ -29,9 +29,6 @@ Senior Frontend Developer
 
 Led the development of a highly scalable, interactive airport map that renders thousands of moving objects with consistently 
 high performance, even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. 
-
-Increased operator productivity by integrating predictive position updates for better tracking of moving objects. Engineered 
-an intuitive, multi-layer system to navigate through complex, overlapping data. 
 
 Increased operator productivity (≈ 18.4%) by making tracking of moving object easier via predictive position updates.
 Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.
