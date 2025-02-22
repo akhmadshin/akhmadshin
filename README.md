@@ -3,7 +3,7 @@
 
 **ABOUT ME**
 
-I’m a developer passionate about solving complex business challenges with innovative technology solutions. I enjoy creating features that differentiate products and address real user needs. My focus is on building software that delivers exceptional user experiences and consistently high performance.
+With over 7 years of experience in enterprise development, I’m a developer passionate about solving complex business challenges with innovative technology solutions. I enjoy creating features that differentiate products and address real user needs. My focus is on building software that delivers exceptional user experiences and consistently high performance. I'm seeking opportunities to lead technical projects and mentor junior developers while continuing to grow my expertise in frontend technologies.
 
 **SKILLS**
 
@@ -19,17 +19,19 @@ I’m a developer passionate about solving complex business challenges with inno
 
 * SCADA system for [Sheremetyevo airport](https://www.svo.aero/en/main)
 
-Created a highly scalable, interactive airport map that renders thousands of moving objects with consistently high performance even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. Increased operator productivity by integrating predictive position updates for better tracking of moving objects. Engineered an intuitive, multi-layer system to navigate through complex, overlapping data. Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.   
+Led the development of a highly scalable, interactive airport map that renders thousands of moving objects with consistently high performance, even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. Increased operator productivity by integrating predictive position updates for better tracking of moving objects. Engineered an intuitive, multi-layer system to navigate through complex, overlapping data. Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.
+
 Stack: TypeScript, Three.js, React Three Fiber, React Router, Tanstack react-query, Tailwind CSS.
 
 * [S7 media](https://media.s7.ru/).
 
-Built that media platform from scratch to production. Took an active part in the discussion of the main business features of the product. Engineered a [solution](https://akhmadshin.dev/blog/optimistic-navigation-performance-illusion/) that significantly improved navigation speed, resulting in a 16.3% increase in user engagement and enhanced search engine rankings. Developed an intuitive, user-friendly article editor for website visitors, empowering them to create their own content (19.2% more posts from users). Implemented a cross-platform application (≈60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.  
+Built the media platform from scratch to production, taking an active part in the discussion of the main business features of the product. Engineered a solution that significantly improved navigation speed, resulting in a 16.3% increase in user engagement and enhanced search engine rankings. Developed an intuitive, user-friendly article editor for website visitors, empowering them to create their own content (19.2% more posts). Implemented a cross-platform application (≈60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.
+
 Stack: TypeScript, Next.js, React Native, Tanstack react-query, Zustand, Tailwind CSS.
 
-**BaltInfoCom									          	   Oct. 09.2017 – 09.2020**  
+**BaltInfoCom									          	   	09.2017 – 09.2020**  
 *Frontend developer*										     	         
-Enhanced data visualization by designing and implementing complex tables and interactive graphs, significantly improving data interpretation. Developed recursive forms for dynamic data entry,  . Engineered sophisticated web crawlers for efficient data collection, and reverse-engineered web applications to enhance crawler performance, bypass CAPTCHA restrictions, and ensure system stability.  
+Enhanced data visualization by designing and implementing complex tables and interactive graphs, significantly improving data interpretation. Developed recursive forms for dynamic data entry, streamlining user input processes. Engineered sophisticated web crawlers for efficient data collection. Reverse-engineered websites to bypass CAPTCHA restrictions and ensure web crawling stability.  
 Stack: TypeScript, Knockout.js, Vue, Angular.js, ANTD.
 
 **CONTRIBUTIONS TO OPEN SOURCE**
@@ -46,8 +48,7 @@ Stack: TypeScript, Knockout.js, Vue, Angular.js, ANTD.
 
 * [svg-flex](https://github.com/akhmadshin/svg-flex). A lightweight (1kb) implementation of flexbox for SVG images.
 
-
 **EDUCATION**
 
-**SPBGUPTD University 					                     	        		         	          07, 2022**  
+**SPBGUPTD University 					                     	        		       09.2017 – 07.2022**  
 *Bachelor of Engineering Industrial Process Control and Automation					   	 Saint-Petersburg*  
