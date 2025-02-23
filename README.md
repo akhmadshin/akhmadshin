@@ -3,11 +3,11 @@
 
 **ABOUT ME**
 
-With over 7 years of experience in enterprise development, I’m a developer passionate about solving complex business challenges with innovative technology solutions. I enjoy creating features that differentiate products and address real user needs. My focus is on building software that delivers exceptional user experiences and consistently high performance. I'm seeking opportunities to lead technical projects and mentor junior developers while continuing to grow my expertise in frontend technologies.
+7+ years of enterprise development experience, specializing in enhancing product value by finding and solving key pain points. My focus is on building software that delivers exceptional user experience and consistently high performance. I'm seeking opportunities to lead technical projects and mentor junior developers while continuing to grow my expertise in frontend technologies.
 
 **SKILLS**
 
-* **Core Technologies**: TypeScript, JavaScript, React, Next.js, Three.js/R3F, React Native
+* **Core Technologies**: TypeScript, React, Next.js, Three.js/R3F, React Native
 * **Additional Experience**: Vue, Angular.js, Knockout.js
 * **Tools & Libraries**: react-query, tanstack-table, ag-grid, zustand, tailwindcss, ANTD
 * **Specialized Skills**: Shader programming, View Transitions API, web crawlers, business analytics
@@ -19,31 +19,28 @@ With over 7 years of experience in enterprise development, I’m a developer pas
 
 * SCADA system for [Sheremetyevo airport](https://www.svo.aero/en/main)
 
-
-Led the development of a highly scalable, interactive airport map that renders thousands of moving objects with consistently high performance, even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. Increased operator productivity by integrating predictive position updates for better tracking of moving objects. Engineered an intuitive, multi-layer system to navigate through complex, overlapping data. Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.
+Led the development of a highly scalable, interactive airport map that renders thousands of moving objects with consistently high performance, even with disabled hardware acceleration. Wrote custom shaders to achieve better visualization of equipment status. Increased operator productivity (≈ 18.4%) by making tracking of moving objects easier via predictive position updates. Reduced the number of calculations to a minimum and achieved stable performance even on the slowest devices.
 
 Stack: TypeScript, Three.js, React Three Fiber, React Router, Tanstack react-query, Tailwind CSS.
 
 * [S7 media](https://media.s7.ru/).
 
-Built the media platform from scratch to production, taking an active part in the discussion of the main business features of the product. I engineered a solution that significantly improved navigation speed, leading to a 16.3% increase in user engagement and enhanced search engine rankings. I created an intuitive article editor for website visitors, enabling them to generate their own content, leading to a 19.2% increase in the number of posts. Implemented a cross-platform application (≈60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.
+Built the media platform from scratch to production, taking an active part in the discussion of the main business features of the product. I engineered a solution that significantly improved navigation speed, leading to a 16.3% increase in user engagement and enhanced search engine rankings. I created an intuitive article editor for website visitors, enabling them to generate their own content, leading to a 19.2% increase in the number of posts. Implemented a cross-platform application (≈ 60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.
 
 Stack: TypeScript, Next.js, React Native, Tanstack react-query, Zustand, Tailwind CSS.
 
-
-
 **BaltInfoCom									          	   	09.2017 – 09.2020**  
 *Frontend developer*										     	         
-Enhanced data visualization by designing and implementing complex tables and interactive graphs, significantly improving data interpretation. Developed recursive forms for dynamic data entry, streamlining user input processes. Engineered sophisticated web crawlers for efficient data collection. Reverse-engineered websites to bypass CAPTCHA restrictions and ensure web crawling stability.  
+Developed recursive forms, rendered pivot tables, reverse-engineered websites to bypass CAPTCHA restrictions, and wrote highly efficient web crawlers.  
 Stack: TypeScript, Knockout.js, Vue, Angular.js, ANTD.
 
 **CONTRIBUTIONS TO OPEN SOURCE**
 
-* [next-query-glue-starter](https://github.com/akhmadshin/next-query-glue-starter). A Next.js starter with a perfect navigation experience. Has helped many developers achieve a better navigation experience on their websites. 159 stars on GitHub.
+* [next-query-glue-starter](https://github.com/akhmadshin/next-query-glue-starter). Developed a Next.js starter with perfect navigation experiences, adopted by numerous developers, and earned 159 GitHub stars.
 
 * [Contributed](https://x.com/schanuelmiller/status/1868809959229866005) to TanStack Router. Add a method for controlling the chunk preloading.
 
-* [next-query-glue](https://github.com/akhmadshin/next-query-glue). A library that gives control over Next.js data fetching during soft navigation. To create this library, I read through the source code of the Next.js (router part).
+* [next-query-glue](https://github.com/akhmadshin/next-query-glue). A library that lets you run route data requests through react-query. To create this library, I read through the source code of Next.js to modify default router behavior.
 
 * [view-transition-name-handler](https://github.com/akhmadshin/view-transition-name-handler) is a library that manages the view-transition-name property between DOM nodes during navigation.
 
