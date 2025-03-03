@@ -33,22 +33,3 @@ Stack: TypeScript, Next.js, React Native, Tanstack react-query, Zustand, Tailwin
 *Frontend developer*										     	         
 Developed recursive forms, rendered pivot tables, reverse-engineered websites to bypass CAPTCHA restrictions, and wrote highly efficient web crawlers.  
 Stack: TypeScript, Knockout.js, Vue, Angular.js, ANTD.
-
-**CONTRIBUTIONS TO OPEN SOURCE**
-
-* [next-query-glue-starter](https://github.com/akhmadshin/next-query-glue-starter). Developed a Next.js starter with perfect navigation experiences, adopted by numerous developers, and earned 159 GitHub stars.
-
-* [Contributed](https://x.com/schanuelmiller/status/1868809959229866005) to TanStack Router. Add a method for controlling the chunk preloading.
-
-* [next-query-glue](https://github.com/akhmadshin/next-query-glue). A library that lets you run route data requests through react-query. To create this library, I read through the source code of Next.js to modify default router behavior.
-
-* [view-transition-name-handler](https://github.com/akhmadshin/view-transition-name-handler) is a library that manages the view-transition-name property between DOM nodes during navigation.
-
-* [next-rich-view-transitions](https://github.com/akhmadshin/next-rich-view-transitions) adds support for the View Transitions API in Next.js.
-
-* [svg-flex](https://github.com/akhmadshin/svg-flex). A lightweight (1kb) implementation of flexbox for SVG images.
-
-**EDUCATION**
-
-**SPBGUPTD University 					                     	        		       09.2017 – 07.2022**  
-*Bachelor of Engineering Industrial Process Control and Automation					   	 Saint-Petersburg*  
