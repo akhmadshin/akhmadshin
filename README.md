@@ -25,7 +25,7 @@ Stack: TypeScript, Three.js, React Three Fiber, React Router, Tanstack react-que
 
 * [S7 media](https://media.s7.ru/).
 
-Built the media platform from scratch to production, taking an active part in the discussion of the main business features of the product. I engineered a solution that significantly improved navigation speed, leading to a 16.3% increase in user engagement and enhanced search engine rankings. I created an intuitive article editor for website visitors, enabling them to generate their own content, leading to a 19.2% increase in the number of posts. Implemented a cross-platform application (≈ 60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.
+Built the media platform from scratch to production, taking an active part in the discussion of the main business features of the product. I engineered a solution that significantly improved navigation speed, leading to a 11.3% increase in user engagement and enhanced search engine rankings. I created an intuitive article editor for website visitors, enabling them to generate their own content, leading to a 19.2% increase in the number of posts. Implemented a cross-platform application (≈ 60% of the codebase is shared), which significantly reduced development costs for both Android and iOS versions.
 
 Stack: TypeScript, Next.js, React Native, Tanstack react-query, Zustand, Tailwind CSS.
 
