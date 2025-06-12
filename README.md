@@ -4,4 +4,4 @@
 For over 8 years, enhance enterprise projects by:
 - Implementing features that facilitate business scalability and efficiency.
 - Finding and solving holes in the business logic, improving UX.
-- Creating a UI that provides immediate feedback to user actions.
+- Creating apps that provides immediate feedback to user actions.
