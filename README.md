@@ -1,7 +1,8 @@
 [**Vadim Akhmadshin**](https://www.linkedin.com/in/akhmadshin/)  
 [hello@akhmadshin.dev](mailto:hello@akhmadshin.dev) ❖ [LinkedIn](https://www.linkedin.com/in/akhmadshin/) ❖ [akhmadshin.dev](https://akhmadshin.dev/)
+
 Senior Frontend Developer with 8 years of experience building high-performance web applications, real-time systems, and complex interfaces across industrial, content, and customer-facing digital products. My core expertise is in TypeScript, React, Three.js, Next.js, Node.js, Tailwind, TanStack, and React Router. I specialize in frontend architecture, performance optimization, and building fast, production-ready interfaces for technically demanding environments.
 
-In my recent work, I built the frontend of a real-time SCADA system from scratch, replacing a legacy solution and helping reduce navigation time from 3 seconds to 40 ms. I also contributed to reducing static storage from 10 TB to 50 GB and improved perceived entity movement from 2 FPS to 16 FPS. In parallel, I developed an optimistic navigation approach for constantly fast navigation on slow networks, later turning it into an open-source starter with 155 GitHub stars.
+In my recent work, I built the frontend of a real-time SCADA system from scratch, replacing a legacy solution and reducing navigation time from 3 seconds to 40 ms. I also contributed to compressing 10 TB of data into 50 GB (a 200× reduction) and delivered 8× smoother movement for SCADA entities by increasing the frame rate from 2 FPS to 16 FPS. In parallel, I developed an optimistic navigation approach that ensures consistently fast soft navigation on slow networks, which I later open-sourced as a starter template with 155 GitHub stars.
 
 I work best in cross-functional teams where product quality, performance, and usability matter equally. I am strongest at turning complex requirements into intuitive interfaces and finding elegant frontend solutions that improve both user experience and delivery outcomes.
